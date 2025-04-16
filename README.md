@@ -2,49 +2,13 @@ Simple Task Manager
 
 A simple and responsive task management app built with **React**, **Vite** and **Tailwind CSS**.
 
-Features
-
-- Add new tasks
-- Mark tasks as completed
-- Undo completed tasks
-- Clean and minimal UI
-
-Technologies
-
-- [React] (https://reactjs.org/)
-- [Vite] (https://vitejs.dev/)
-- [Tailwind CSS] (https://tailwindcss.com/)
-
- Get started
-
-To run this project locally, follow these steps:
-
-1. Clone the repository
-  clone git https://github.com/Narges-Piryaei/Simple-Task-management.git
-  cd Simple-Task-management
-
-2. Install dependencies
-  npm install
-
-3. Start the development server
-  npm run dev
-
-
-Build for production
-npm run build
-
-Project Structure
-Simple-Task-management/
-├── public/
-├── src/
-│   ├── components/
-│   │   └── TaskManager.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-├── tailwind.config.js
-├── postcss.config.js
-└── vite.config.js
-   
+1- first open the vs code
+2- So install the github plugin
+3- Now select from Top Bar   =>   View > Command Palette
+4- type   =>   Git: Clone
+5- Then enter the Git project address
+6- next enter save file addres
+7- After the clone is complete, it will ask you    =>     would you like to open the cloned repository?    =>     select open
+8- After the project open, select from top bar     =>     Terminal > New Terminal
+9- next run the     =>     npm install , npm run dev
+10- Finally, get the url and search in the browser
