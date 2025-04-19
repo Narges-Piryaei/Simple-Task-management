@@ -1,5 +1,8 @@
 Simple Task Manager
 
+- Node.js v22.14.0  
+- npm (comes with Node.js)
+
 A simple and responsive task management app built with **React**, **Vite** and **Tailwind CSS**.
 
 1- first open the vs code
